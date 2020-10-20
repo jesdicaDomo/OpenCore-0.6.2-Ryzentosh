@@ -33,7 +33,7 @@ Gpu ทำงานได้เต็มที่
 Hardware Virtualization
 
 <h1> ⚠️ Update Big Sur beta 10 ⚠️ </h1>
-สำหรับการอักเดท มันสามรถอัพเดทได้ปกติเพียงแค่คุณแก้ไขตามนี้<br>
+สำหรับการอัพเดท มันสามรถอัพเดทได้ปกติเพียงแค่คุณแก้ไขตามนี้<br>
 * EFI -> OC -> config.plist | เปิดไฟล์แก้ไข<br>
 * Misc -> Security -> SecurrBootModel = Disabled<br>
 * Reboot 1 ครั้ง แล้วทำการอัพเดท Big Sur beta 10 ได้เลย
