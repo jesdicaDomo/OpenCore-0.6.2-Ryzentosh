@@ -4,7 +4,8 @@
 EFI ของ Ryzentosh ทีทำงานดีที่สุดของฉัน<br>
 ฉันทำขึ้นเพื่อใช้ส่วนตัวหรือถ้าท่านไหนจะลองนำไปรับแต่งฉันก็ไม่ว่าอะไร
 
-## สเปคคอมพิวเตอร์    
+## สเปคคอมพิวเตอร์ 
+CPU AMD Ryzen 5 2600<br>   
 VGA RX5600XT Red Devil<br>      
 B450M Steel Legend<br>      
 Ram 16GB DDR4 A-DATA<br>    
