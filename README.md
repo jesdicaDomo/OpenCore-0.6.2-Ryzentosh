@@ -1,5 +1,6 @@
+![image](https://user-images.githubusercontent.com/12781303/96605153-0fce6d80-1320-11eb-885f-7581a42ad273.png)
+
 <h1>OpenCore-0.6.2-Ryzentosh  </h1>  
-![image](https://user-images.githubusercontent.com/12781303/96605153-0fce6d80-1320-11eb-885f-7581a42ad273.png)<br>
 EFI ของ Ryzentosh ทีทำงานดีที่สุดของฉัน<br>    
 VGA RX5600XT Red Devil<br>      
 B450M Steel Legend<br>      
