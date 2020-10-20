@@ -1,4 +1,4 @@
-#OpenCore-0.6.2-Ryzentosh
++#OpenCore-0.6.2-Ryzentosh
 EFI ของ Ryzentosh ทีทำงานดีที่สุดของฉัน
 
 VGA RX5600XT Red Devil
@@ -16,4 +16,3 @@ Ethernet
 Display Port audio & HDMI
 Audio output
 Sleep
-...
