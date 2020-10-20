@@ -13,10 +13,10 @@ SSD 120 GB Colorful SL300<br>
 OS Catalina 10.15.7<br>  
 Mac Pro 7,1 [2019] มันทำงานได้ดี<br>  
 
-<h3>ทำงาน</h3> 
+##ทำงาน
 Ethernet<br>  
 Display Port audio & HDMI<br>  
 Audio output<br>  
 Sleep<br>
 
-<h4>ไม่ทำงาน</h4>
+##ไม่ทำงาน
