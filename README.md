@@ -1,6 +1,5 @@
 +#OpenCore-0.6.2-Ryzentosh
 EFI ของ Ryzentosh ทีทำงานดีที่สุดของฉัน
-
 VGA RX5600XT Red Devil
 B450M Steel Legend
 Ram 16GB DDR4 A-DATA
