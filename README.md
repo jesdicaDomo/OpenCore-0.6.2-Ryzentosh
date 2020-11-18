@@ -19,7 +19,7 @@ OS BIG SUR 11.0.1<br>
 Mac Pro 7,1 [2019] มันทำงานได้ดี<br>
 และเหมาะกับเครื่องของฉัน<br>
 
-![ภาพหน้าจอ 2563-10-20 เวลา 22 30 46](https://user-images.githubusercontent.com/12781303/96608815-06470480-1324-11eb-9d84-aab869c3b31e.png)
+![ภาพถ่ายหน้าจอ 2563-11-18 เวลา 19 04 14](https://user-images.githubusercontent.com/12781303/99529978-435def80-29d3-11eb-9e88-53b3c5fdeb83.png)
 
 <h1> ✅ ทำงาน ✅ </h1>
 Ethernet<br>
@@ -33,8 +33,5 @@ Gpu ทำงานได้เต็มที่
 Hardware Virtualization<br>
 MacProMemoryNotificationDisabler.kext [ไม่ทำงาน] มีการแจ้งเตือน
 
-<h1> ⚠️ Update Big Sur beta 10 ⚠️ </h1>
-สำหรับการอัพเดท มันสามรถอัพเดทได้ปกติเพียงแค่คุณแก้ไขตามนี้<br>
-* EFI -> OC -> config.plist | เปิดไฟล์แก้ไข<br>
-* Misc -> Security -> SecurrBootModel = Disabled<br>
-* Reboot 1 ครั้ง แล้วทำการอัพเดท Big Sur beta 10 ได้เลย
+<h1> ⚠️ Update Big Sur 11.0.1 ⚠️ </h1>
+สำหรับการอัพเดท มันสามรถอัพเดทได้ปกติ<br>
