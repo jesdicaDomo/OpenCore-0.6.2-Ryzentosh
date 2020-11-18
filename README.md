@@ -25,7 +25,6 @@ Mac Pro 7,1 [2019] มันทำงานได้ดี<br>
 Ethernet<br>
 Display Port audio & HDMI<br>
 Audio output<br>
-Sleep<br>
 Microphone input<br>
 Gpu ทำงานได้เต็มที่
 
